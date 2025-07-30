@@ -4,3 +4,4 @@ __pycache__/
 models/
 filtered_db/
 unfiltered_db/
+src/stockfish/
