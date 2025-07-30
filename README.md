@@ -74,6 +74,9 @@ chess/
 
 - The repo does **not** include a pre-trained model due to size. You can train your own using the UI or scripts.  
 - Lichess `.zst` files can be decompressed using `zstdecomp.py`.  
+- **To filter PGN files, you must download and install [Stockfish](https://stockfishchess.org/download/)**.  
+  - Place the Stockfish binary inside `src/stockfish/`  
+  - Or make sure it's available in your system PATH
 
 ## License
 
