@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+filtered_db/
+unfiltered_db/
